@@ -221,7 +221,7 @@ The application uses a red color scheme for Sri Lanka Railways. To customize:
 - Mobile app version
 - Multi-language full support
 
-## 🐛 Known Limitations
+##  Known Limitations
 
 1. **No Persistence** - Data is not saved (refresh resets everything)
 2. **Limited Routes** - Only 4 routes available
@@ -229,11 +229,11 @@ The application uses a red color scheme for Sri Lanka Railways. To customize:
 4. **No Real-Time Data** - No live train tracking
 5. **Client-Side Only** - No server/database
 
-## 📄 License
+##  License
 
 This project is created for educational and demonstration purposes.
 
-## 👥 Support
+##  Support
 
 For questions or issues:
 - Review the code comments in each file
@@ -241,7 +241,7 @@ For questions or issues:
 - Ensure all dependencies are installed
 - Verify Tailwind CSS is properly configured
 
-## 🎓 Educational Use
+##  Educational Use
 
 This project is ideal for:
 - Learning React component architecture
@@ -251,7 +251,7 @@ This project is ideal for:
 - Portfolio demonstrations
 - Academic projects
 
-## 🔗 Additional Resources
+##  Additional Resources
 
 - [React Documentation](https://react.dev)
 - [Tailwind CSS Docs](https://tailwindcss.com/docs)
@@ -259,6 +259,6 @@ This project is ideal for:
 
 ---
 
-**Built with ❤️ for Sri Lanka Railways**
+**Built with  for Sri Lanka Railways**
 
-*Version 1.0.0 - January 2026*
+
