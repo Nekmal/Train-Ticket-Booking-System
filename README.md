@@ -2,7 +2,7 @@
 
 A comprehensive online train ticket booking system tailored for Sri Lanka Railways, featuring real train names, authentic routes, and a complete booking flow from search to confirmation.
 
-## 🚂 Features
+##  Features
 
 ### Core Functionality
 - **Smart Train Search** - Search trains by route, date, and class
@@ -21,7 +21,7 @@ A comprehensive online train ticket booking system tailored for Sri Lanka Railwa
 - Multi-language selector (English, Sinhala, Tamil)
 - Form validation and error handling
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 sri-lanka-railways/
@@ -51,7 +51,7 @@ sri-lanka-railways/
 └── README.md
 ```
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 - Node.js (v14 or higher)
@@ -112,7 +112,7 @@ npm start
 
 The application will open at `http://localhost:3000`
 
-## 🚀 Usage Guide
+##  Usage Guide
 
 ### 1. Search for Trains
 - Select "From" and "To" stations
@@ -138,7 +138,7 @@ The application will open at `http://localhost:3000`
 - View complete booking details
 - Receive confirmation email (UI indication)
 
-## 📊 Available Routes & Trains
+##  Available Routes & Trains
 
 ### Colombo Fort → Kandy
 - **Podi Menike** (Express) - 06:00 - 09:15
@@ -156,7 +156,7 @@ The application will open at `http://localhost:3000`
 ### Colombo Fort → Galle
 - **Ruhunu Kumari** (Express) - 07:00 - 09:30
 
-## 🎨 Customization
+##  Customization
 
 ### Adding New Stations
 Edit `src/data/stations.js`:
@@ -188,7 +188,7 @@ The application uses a red color scheme for Sri Lanka Railways. To customize:
 - Buttons: `bg-red-600 hover:bg-red-700`
 - Links: `text-red-600`
 
-## 🔧 Technical Details
+##  Technical Details
 
 ### Technologies Used
 - **React** - Frontend framework
@@ -202,7 +202,7 @@ The application uses a red color scheme for Sri Lanka Railways. To customize:
 - **Form Validation** - Client-side validation
 - **Responsive Design** - Mobile-first approach
 
-## 📝 Notes
+##  Notes
 
 ### Important
 - This is a **UI/UX demonstration system**
